@@ -142,4 +142,4 @@ function animate(){
     }
 }
 
-animate();
+animate()
